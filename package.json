@@ -1,0 +1,17 @@
+
+{
+  "name": "home-control-smart",
+  "version": "1.0.0",
+  "description": "Smart home automation interface",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'No build step required for ESM-based app'",
+    "sync": "npx cap sync"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0"
+  }
+}
