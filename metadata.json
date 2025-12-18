@@ -1,0 +1,7 @@
+{
+  "name": "Wifi control",
+  "description": "A smart home automation interface for controlling lights, fans, and water motors with an offline-first design philosophy.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

@@ -1,0 +1,10 @@
+
+{
+  "appId": "com.homecontrol.smartapp",
+  "appName": "HomeControl",
+  "webDir": ".",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
